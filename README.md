@@ -34,14 +34,14 @@ Welcome to Galaxybucks Coffee. Follow these instructions to login to the Galaxyb
 ### Enter email or username
 - Tap the 'email or username' section
 
-- enter the email or username associated with your Galaxybucks account
+- Enter the email or username associated with your Galaxybucks account
 
 <!-- Click [here](#forgot-email-or-username) if you forgot your username or email -->
 
 ### Enter user password
 - Tap the 'Password' section 
 
-- enter the password associated with your Galaxybucks account
+- Enter the password associated with your Galaxybucks account
 
 
 ## Troubleshooting
