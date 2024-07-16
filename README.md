@@ -4,9 +4,6 @@
 ## Purpose
 *User Login* - walk the user through login steps for the Galaxybuck Coffee App
 
-## Summary 
-To login to the Galaxybucks Coffee App, the user must provide a unique email or username and password. 
-
 ## User Login Instructions
 Welcome to Galaxybucks Coffee. Follow these instructions to login to the Galaxybucks Coffee app. Click on any step for detailed instructions.  
 1. [Launch the Galaxybucks Coffee App](#launch-the-galaxybucks-coffee-app)
