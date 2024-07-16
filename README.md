@@ -56,4 +56,4 @@ Welcome to Galaxybucks Coffee. Follow these instructions to login to the Galaxyb
 - If you forgot your password, click 'Forgot password' on the 'sign in' screen
 
 ## Need More Help?
-- contact us at [Galaxybucks HQ](mailto:exampleemail@example.com) for more help
+- Contact us at [Galaxybucks HQ](mailto:exampleemail@example.com) for more help
